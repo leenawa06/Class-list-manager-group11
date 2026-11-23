@@ -26,3 +26,10 @@ def main():
 
 
 main()
+
+# Written by: Leen (Task 1)
+def count_names(names):
+    return len(names)
+
+# Add inside main():
+    print("Number of names:", count_names(names))
